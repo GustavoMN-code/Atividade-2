@@ -8,3 +8,12 @@ C:\Users\ADQ19127\source\repos\Atividade2\obj\Debug\Atividade2.csproj.GenerateRe
 C:\Users\ADQ19127\source\repos\Atividade2\obj\Debug\Atividade2.csproj.CoreCompileInputs.cache
 C:\Users\ADQ19127\source\repos\Atividade2\obj\Debug\Atividade2.exe
 C:\Users\ADQ19127\source\repos\Atividade2\obj\Debug\Atividade2.pdb
+M:\Users\pcgrande\Desktop\ConverteNum\Atividade-2\bin\Debug\Atividade2.exe.config
+M:\Users\pcgrande\Desktop\ConverteNum\Atividade-2\obj\Debug\Atividade2.exe
+M:\Users\pcgrande\Desktop\ConverteNum\Atividade-2\obj\Debug\Atividade2.pdb
+M:\Users\pcgrande\Desktop\ConverteNum\Atividade-2\bin\Debug\Atividade2.exe
+M:\Users\pcgrande\Desktop\ConverteNum\Atividade-2\bin\Debug\Atividade2.pdb
+M:\Users\pcgrande\Desktop\ConverteNum\Atividade-2\obj\Debug\Atividade2.csprojResolveAssemblyReference.cache
+M:\Users\pcgrande\Desktop\ConverteNum\Atividade-2\obj\Debug\Atividade2.Form1.resources
+M:\Users\pcgrande\Desktop\ConverteNum\Atividade-2\obj\Debug\Atividade2.Properties.Resources.resources
+M:\Users\pcgrande\Desktop\ConverteNum\Atividade-2\obj\Debug\Atividade2.csproj.GenerateResource.Cache

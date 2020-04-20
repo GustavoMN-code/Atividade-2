@@ -30,14 +30,18 @@ namespace Atividade2
         private void button1_Click(object sender, EventArgs e)
         {
 
-            double entrada = 0;
-            int saida = 0;
+            double entrada; //recebe o número digitado
+            int saida; //recebe o valor convertido
 
-            entrada = Double.Parse(textBox1.Text.ToString());
-            saida = Convert.ToInt32(entrada);
-
-            label1.Text = Convert.ToString(saida);
-
+            if ((double.TryParse(textBox1.Text, out entrada))){ 
+                                
+                saida = Convert.ToInt32(entrada);
+                label1.Text = Convert.ToString(saida);
+            }
+            else
+            {
+                MessageBox.Show("Digite um número!");
+            }
 
         }
 
